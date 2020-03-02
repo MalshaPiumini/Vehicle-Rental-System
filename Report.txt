@@ -1,0 +1,15 @@
+ PlateNB :  AS4567     vehicle Deleted on :30-11-2019
+ PlateNB :  Bajaj      vehicle Deleted on :01-12-2019
+ PlateNB :  XC1235     vehicle Deleted on :02-12-2019
+ PlateNB :  XC1234     vehicle Deleted on :02-12-2019
+ PlateNB :  KB1234     vehicle Deleted on :02-12-2019
+ PlateNB :  KB1235     vehicle Deleted on :02-12-2019
+ PlateNB :  AS1234     vehicle Deleted on :02-12-2019
+ PlateNB :  XC9999     vehicle Deleted on :02-12-2019
+ PlateNB :  XC9989     vehicle Deleted on :02-12-2019
+ PlateNB :  XC6889     vehicle Deleted on :02-12-2019
+ PlateNB :  KJ6543     vehicle Deleted on :02-12-2019
+ PlateNB :  XC1111     From : 2020-02-03  To :   2020-04-01  Booked By : Chanamith Wickramanayake
+ PlateNB :  XC1239     From : 2019-12-03  To :   2019-12-05  Booked By : Inura Kavishka
+ PlateNB :  SD1234     From : 2019-12-01  To :  Booked By : Malsha P
+ PlateNB :  KA1234     vehicle Deleted on :05-12-2019
